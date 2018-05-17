@@ -4,7 +4,7 @@
 
 - Network services
   - Cloud DNS - delete all records set entries and containing zones
-  - Load Balancers - delete all LBs + attached resources (e.g. backends, etc.)
+  - Load Balancers - delete all LBs plus attached resources as prompted (e.g. frontends, backends, certificates, etc.)
 
 - Compute Engine
   - VM instances - stop and delete all
