@@ -1,6 +1,6 @@
 # gcp-cleanup
 
-## Steps
+## Steps to clean up a project after typical use
 
 - Network services
   - Cloud DNS - delete all records set entries and containing zones
