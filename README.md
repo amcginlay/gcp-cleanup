@@ -10,7 +10,7 @@
   - VM instances - stop and delete all
   - Instance groups - delete all
   - Disks - delete all
-  - Images - delete all __user defined__ images
+  - Images - delete __only__ the images create by your project name
   - Metadata - delete all SSH Keys and Metadata
   - Health Checks - delete all
 
