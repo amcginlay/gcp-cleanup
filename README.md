@@ -21,7 +21,8 @@
   - VPC Networks - Delete __non-default__ networks and all sub-components
   - External IP addresses - Release Static Addresses
   - Firewall rules - Delete __non-default__ rules
-
+  - VPC network peering - Delete all 
+  
 - IAM & Admin
   - IAM - delete any accounts the install __explicitly__ created
   - Service Accounts - delete any accounts the install __explicitly__ created
