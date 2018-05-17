@@ -11,17 +11,17 @@
   - Instance groups - delete all
   - Disks - delete all
   - Metadata - delete all
-  - Images - delete all user defined images
+  - Images - delete all __user defined__ images
   - Health Checks - delete all
 
 - Storage
   - Browser > Buckets - delete all
 
 - VPC Networks
-  - VPC Networks - Delete non-default networks and all sub-components
+  - VPC Networks - Delete __non-default__ networks and all sub-components
   - External IP addresses - Release Static Addresses
-  - Firewall rules - Delete non-default rules
+  - Firewall rules - Delete __non-default__ rules
 
 - IAM & Admin
-  - IAM - delete any accounts the install explicitly created
-  - Service Accounts - delete any accounts the install explicitly created
+  - IAM - delete any accounts the install __explicitly__ created
+  - Service Accounts - delete any accounts the install __explicitly__ created
