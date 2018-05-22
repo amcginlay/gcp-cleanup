@@ -3,7 +3,7 @@
 ## Steps to clean up a project after typical use
 
 - Network services
-  - Cloud DNS - delete all records set entries and containing zones
+  - Cloud DNS - delete all record set entries and containing zones
   - Load Balancers - delete all LBs plus attached resources as prompted (e.g. frontends, backends, certificates, etc.)
 
 - Compute Engine
