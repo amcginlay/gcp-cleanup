@@ -24,5 +24,5 @@
   - Firewall rules - Delete __non-default__ rules
   
 - IAM & Admin
-  - IAM - delete any accounts the install __explicitly__ created
+  - IAM - delete any accounts the install __explicitly__ created (looks for names like terraform, opsman, pks, blobstore)
   - Service Accounts - delete any accounts the install __explicitly__ created
