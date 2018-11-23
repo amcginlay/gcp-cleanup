@@ -23,6 +23,6 @@
   - External IP addresses - Release Static Addresses
   - Firewall rules - Delete __non-default__ rules
   
-- IAM & Admin (__be careful to not remove yourself!__)
-  - IAM - delete any accounts the install __explicitly__ created (looks for names like terraform, opsman, pks, blobstore)
+- IAM & Admin (look for names like terraform, opsman, pks, blobstore but __be careful__ to not remove yourself!)
+  - IAM - delete any accounts the install __explicitly__ created
   - Service Accounts - delete any accounts the install __explicitly__ created
