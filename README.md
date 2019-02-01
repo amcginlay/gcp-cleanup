@@ -18,7 +18,7 @@
   - Browser > Buckets - delete all
 
 - SQL
-  - Remove all instances
+  - Delete all
 
 - VPC Networks
   - VPC network peering - Delete all 
