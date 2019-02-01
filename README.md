@@ -26,3 +26,6 @@
 - IAM & Admin (look for names like terraform, opsman, pks, blobstore but __be careful__ to not remove yourself!)
   - IAM - delete any accounts the install __explicitly__ created
   - Service Accounts - delete any accounts the install __explicitly__ created
+
+- Disable APIs
+  - APIs and Services - Hide used APIs then disable all that remain
