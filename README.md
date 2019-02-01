@@ -17,6 +17,9 @@
 - Storage
   - Browser > Buckets - delete all
 
+- SQL
+  - Remove all instances
+
 - VPC Networks
   - VPC network peering - Delete all 
   - VPC Networks - Delete __non-default__ networks and all sub-components
