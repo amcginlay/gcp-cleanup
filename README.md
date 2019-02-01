@@ -23,6 +23,9 @@
   - External IP addresses - Release Static Addresses
   - Firewall rules - Delete __non-default__ rules
   
+- Delete buckets
+  - Storage - delete all buckets
+
 - IAM & Admin (look for names like terraform, opsman, pks, blobstore but __be careful__ to not remove yourself!)
   - IAM - delete any accounts the install __explicitly__ created
   - Service Accounts - delete any accounts the install __explicitly__ created
