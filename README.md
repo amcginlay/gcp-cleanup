@@ -30,5 +30,5 @@
   - IAM - delete any accounts the install __explicitly__ created
   - Service Accounts - delete any accounts the install __explicitly__ created
 
-- Disable APIs
+- Disable APIs (optional)
   - APIs and Services - Hide used APIs then disable all that remain
