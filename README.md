@@ -31,4 +31,4 @@
   - Service Accounts - delete any accounts the install __explicitly__ created
 
 - Disable APIs (optional)
-  - APIs and Services - Hide used APIs then disable all that remain
+  - APIs and Services -> Deshboard - hide used APIs then disable all that remain
