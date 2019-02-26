@@ -21,7 +21,7 @@
   - Delete all
 
 - VPC Networks
-  - VPC network __peering__ - Delete all 
+  - VPC network __peering__ - delete all, one by one
   - VPC Networks - Delete __non-default__ networks and all sub-components
   - External IP addresses - Release Static Addresses
   - Firewall rules - Delete __non-default__ rules
